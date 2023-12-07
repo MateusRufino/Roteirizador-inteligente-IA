@@ -156,15 +156,8 @@ def main():
     entrega = str(input("Digite em qual bairro será feita e entrega (A-I) = ").upper())
     # Execute o algoritmo de pesquisa
     caminho = astar_search(bairro, distancia, Barroca_lanches, entrega)
+    print("A melhor rota e os pontos que você deve passar para chegar no seu destino são:")
     print(caminho)
-    print()
-
 
 # Diga ao python para executar o método principal
 if __name__ == "__main__": main()
-
-gasolina = int(input("Digite quantos KM/L seu veículo faz = "))
-
-valor = (entrega / gasolina * 5.5 )
-
-print(valor)
