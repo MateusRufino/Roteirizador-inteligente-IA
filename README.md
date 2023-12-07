@@ -1,6 +1,6 @@
-<B>Trabalho realizado no ultimo semestre da faculdade na diciplina de Inteligência artificial</B>
+<Bh5>Trabalho realizado no ultimo semestre da faculdade de engenharia de computação na diciplina de Inteligência artificial</h5>
 
-Nesse trabalho foi proposto desenvolver um sistema buscasse sanar uma dificuldade do dia a dia usando Python e IA
+<B>Nesse trabalho foi proposto desenvolver um sistema buscasse sanar uma dificuldade do dia a dia usando Python e IA
 
 Buscamos tentar solucionar o problema de entregas fora do prazo, tendo em vista que quando um entregador não conhece os bairros de uma cidade corre o risco de se perder e atrasar a entrega do pedido.
 
@@ -16,5 +16,5 @@ Economia de Tempo e Recursos
 Redução de custos operacionais devido à otimização de rotas e menor consumo de combustível.
 
 Melhoria na Experiência do Cliente
-Entrega mais rápida e precisa, resultando em maior satisfação do cliente e fidelidade à marca.
+Entrega mais rápida e precisa, resultando em maior satisfação do cliente e fidelidade à marca.</B>
 
