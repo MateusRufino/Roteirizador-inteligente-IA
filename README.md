@@ -5,6 +5,7 @@
 Buscamos tentar solucionar o problema de entregas fora do prazo, tendo em vista que quando um entregador não conhece os bairros de uma cidade corre o risco de se perder e atrasar a entrega do pedido.
 
 O que é um roteirizador inteligente?
+
 Um roteirizador inteligente é um sistema que utiliza algoritmos avançados e inteligência artificial para otimizar rotas em logística, transporte e entregas.
 
 vantagens do Uso de um roteirizador?
