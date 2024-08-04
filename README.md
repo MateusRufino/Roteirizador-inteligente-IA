@@ -1,21 +1,17 @@
-<Bh5>Trabalho realizado no ultimo semestre da faculdade de engenharia de computação na diciplina de Inteligência artificial</h5>
+Work carried out in the last semester of the computer engineering faculty in the discipline of Artificial Intelligence
 
-<B>Nesse trabalho foi proposto desenvolver um sistema buscasse sanar uma dificuldade do dia a dia usando Python e IA
+In this work, it was proposed to develop a system to solve everyday difficulties using Python and AI.
 
-Buscamos tentar solucionar o problema de entregas fora do prazo, tendo em vista que quando um entregador não conhece os bairros de uma cidade corre o risco de se perder e atrasar a entrega do pedido.
+We seek to solve the problem of late deliveries, considering that when a delivery person does not know the neighborhoods of a city, they run the risk of getting lost and delaying the delivery of the order.
 
-O que é um roteirizador inteligente?
+What is a smart scripter?
 
-Um roteirizador inteligente é um sistema que utiliza algoritmos avançados e inteligência artificial para otimizar rotas em logística, transporte e entregas.
+An intelligent route planner is a system that uses advanced algorithms and artificial intelligence to optimize routes in logistics, transport and deliveries.
 
-vantagens do Uso de um roteirizador?
+advantages of using a scriptwriter?
 
-Otimização de Rotas
-Melhoria na eficiência na entrega de produtos e serviços através da roteirização inteligente.
+Route Optimization Improvement in efficiency in the delivery of products and services through intelligent routing.
 
-Economia de Tempo e Recursos
-Redução de custos operacionais devido à otimização de rotas e menor consumo de combustível.
+Time and Resource Savings Reduction in operational costs due to route optimization and lower fuel consumption.
 
-Melhoria na Experiência do Cliente
-Entrega mais rápida e precisa, resultando em maior satisfação do cliente e fidelidade à marca.</B>
-
+Improved Customer Experience Faster, more accurate delivery, resulting in greater customer satisfaction and brand loyalty.
